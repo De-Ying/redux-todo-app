@@ -37,4 +37,3 @@ const TodoListReducer = (state = initState, action) => {
 };
 
 export default TodoListReducer;
-
